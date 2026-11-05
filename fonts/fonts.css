@@ -1,16 +1,17 @@
-/* Локальные начертания Raleway. Путь идёт из папки styles в папку fonts. */
 @font-face {
   font-family: Raleway;
-  src: url("../fonts/Raleway-Regular.woff2") format("woff2");
-  font-weight: 400;
-  font-style: normal; 
-  font-display: swap; 
+  src:
+    url(./Raleway-Regular.woff2) format("woff2"),
+    url(./Raleway-Regular.woff) format("woff");
+  font-weight: normal;
+  font-display: swap;
 }
 
 @font-face {
   font-family: Raleway;
-  src: url("../fonts/Raleway-Bold.woff2") format("woff2");
-  font-weight: 700;
-  font-style: normal; 
-  font-display: swap; 
+  src:
+    url(./Raleway-Bold.woff2) format("woff2"),
+    url(./Raleway-Bold.woff) format("woff");
+  font-weight: bold;
+  font-display: swap;
 }
