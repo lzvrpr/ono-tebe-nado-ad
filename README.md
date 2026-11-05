@@ -1,7 +1,7 @@
 # «Оно тебе надо»
 
 Статическая вёрстка учебного проекта по макету аукциона.
-Репозиторий: https://github.com/lzvrpr/ono-tebe-nado-ad.
+Ссылка на репозиторий: https://github.com/lzvrpr/ono-tebe-nado-ad
 
 ## Запуск
 
